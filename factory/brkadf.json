@@ -1,0 +1,9 @@
+{
+	"name": "brkadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3493d09c-b51b-40a2-a78a-2b83eb5c5d79",
+		"tenantId": "367b35c2-d25b-41d4-a5f5-192e6ce880c1"
+	}
+}
